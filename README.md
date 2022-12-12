@@ -1,1 +1,2 @@
-Photo Blog - Web Development Bootcamp exercise
+# Photo Blog
+# Web Development Bootcamp Exercise
